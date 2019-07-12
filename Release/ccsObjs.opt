@@ -1,0 +1,1 @@
+"./ADC.obj" "./LED.obj" "./main.obj" "./spi.obj" "./timerA.obj" "../lnk_msp430g2533.cmd" -llibc.a 
